@@ -1,0 +1,8 @@
+name = "fluence-lead-scanner"
+main = "src/index.js"
+compatibility_date = "2025-05-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "fluence-leads"
+database_id = ""
